@@ -1,0 +1,13 @@
+.DS_Store
+
+# Local auth or exported resources
+lark-auth-*.png
+lark-*-auth-*.png
+lark-im-resources/
+
+# Local meeting analysis artifacts
+minutes-analysis/
+
+# Logs and temporary files
+*.log
+*.tmp
