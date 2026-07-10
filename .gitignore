@@ -8,6 +8,11 @@ lark-im-resources/
 # Local meeting analysis artifacts
 minutes-analysis/
 
+# Content/case assets that should stay local
+内容运营/20*.md
+线程资产/20*.md
+线程资产/26Q*.md
+
 # Logs and temporary files
 *.log
 *.tmp
